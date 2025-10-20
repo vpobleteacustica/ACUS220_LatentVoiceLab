@@ -1,0 +1,19 @@
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Datos locales o pesados
+data/mis_vocales/*.wav
+data/formants_local.csv
+data/figs/*.png
+data/figs/*.pdf
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Archivos ocultos de entorno
+.env

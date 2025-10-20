@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+librosa
+soundfile
+scipy
+scikit-learn
+umap-learn
+ipywidgets
